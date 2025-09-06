@@ -1,4 +1,6 @@
 # PromedioNotas
+INICIO
+Procedimiento_principal
     SI opcion == 1 ENTONCES
         <lógica para agregar curso y nota>
     SINO SI opcion == 2 ENTONCES
